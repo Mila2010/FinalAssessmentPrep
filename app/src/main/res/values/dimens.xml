@@ -1,0 +1,14 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="jj_width">200dp</dimen>
+    <dimen name="from_top">80dp</dimen>
+    <dimen name="from_bottom">60dp</dimen>
+    <dimen name="red_rec">120dp</dimen>
+    <dimen name="blue_rec_hight">70dp</dimen>
+    <dimen name="photo_height">200dp</dimen>
+    <dimen name="jj_wrap_content">12dp</dimen>
+    <dimen name="jj_wrap_content_red">-2dp</dimen>
+
+</resources>

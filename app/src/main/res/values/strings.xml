@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">assessment_prep_feb7</string>
+    <string name="log_in">LOG IN</string>
+    <string name="log_out">LOG OUT</string>
+</resources>
